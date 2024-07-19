@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure: Create a Virtual Machine and Deploy a Web Server</b>
+  - (https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Certifications</h2>
 - [AZ 900](https://www.youtube.com/watch?v=a83ASGn_V_s)
