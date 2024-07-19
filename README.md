@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Azure: Create a Virtual Machine and Deploy a Web Server</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/ohasan72/Azure-VM-and-Web-Server)
 
 <h2>📺 Certifications</h2>
 - [AZ 900](https://www.youtube.com/watch?v=a83ASGn_V_s)
