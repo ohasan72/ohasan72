@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osamah Hasan! <br/><a href="https://github.com/ohasan72">Programmer</a>, <a href="www.linkedin.com/in/osamah-hasan-15ba6629">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Osamah Hasan! <br/><a href="https://github.com/ohasan72">Programmer</a>, <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
