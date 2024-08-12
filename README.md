@@ -5,7 +5,7 @@
 - <b>Azure: Create a Virtual Machine and Deploy a Web Server</b>
   - (https://github.com/ohasan72/Azure-VM-and-Web-Server)
 - <b>My Bussiness Card App</b>
-  - (https://github.com/ohasan72/MyCart-App)
+  - (https://github.com/ohasan72/MyCard-App/blob/main/README.md)
 
 
 <h2>📺 Certifications</h2>
